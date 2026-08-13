@@ -1,1 +1,1 @@
-# -3d-earth-globe
+3d-earth-globe
